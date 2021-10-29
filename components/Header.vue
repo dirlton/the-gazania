@@ -5901,6 +5901,20 @@
                               >Site Plan</NuxtLink
                             >
                           </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/360-degree-view-site-plan"
+                              class="inline-block w-full"
+                              >Virtual Tour</NuxtLink
+                            >
+                          </li>
                           <li
                             class="
                               ml-3
@@ -5962,7 +5976,7 @@
                             <NuxtLink
                               to="/e-brochure"
                               class="inline-block w-full"
-                              >e-Brochure</NuxtLink
+                              >E-Brochure</NuxtLink
                             >
                           </li>
                           <li

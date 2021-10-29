@@ -2,65 +2,77 @@
   <div>
     <div class="py-12 select-none bg-theme-700">
       <div class="text-xl font-semibold text-center text-white sm:text-4xl">
-        360 Degree View Site Plan
+        Virtual Tour 
       </div>
     </div>
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
-        <h3 class="text-xl font-semibold sm:text-2xl">One Bernam Drone Shot - Site Plans</h3>
+        <h3 class="text-xl text-center font-semibold sm:text-2xl">1 Bedroom Virtual Tour</h3>
         <iframe 
           width="1100" 
           height="600" 
           class="mx-auto" 
-          src="https://www.mymixgo.com/AUDAX/onebernam-drone/" 
-          title="One Bernam" 
+          src="http://client.audax.com.sg/Gazania/A1/" 
+          title="The Gazania Virtual Tour" 
           frameborder="0" 
           allowfullscreen>
           </iframe>
           <br><br>
-          <h3 class="text-xl font-semibold sm:text-2xl">One Bernam Drone Shot - Standard Room One</h3>
+          <h3 class="text-xl text-center font-semibold sm:text-2xl">2 Bedroom Virtual Tour</h3>
         <iframe 
           width="1100" 
           height="600" 
           class="mx-auto" 
-          src="https://www.mymixgo.com/AUDAX/onebernam-in/typeb2" 
-          title="One Bernam" 
+          src="http://client.audax.com.sg/Gazania/B7/" 
+          title="The Gazania Virtual Tour" 
           frameborder="0" 
           allowfullscreen>
           </iframe>
           <br><br>
-          <h3 class="text-xl font-semibold sm:text-2xl">One Bernam Drone Shot - Standard Room Two</h3>
+          <h3 class="text-xl text-center font-semibold sm:text-2xl">3 Bedroom Virtual Tour</h3>
         <iframe 
           width="1100" 
           height="600" 
           class="mx-auto" 
-          src="https://www.mymixgo.com/AUDAX/onebernam-in/typeb4" 
-          title="One Bernam" 
+          src="http://client.audax.com.sg/Gazania/C4A/" 
+          title="The Gazania Virtual Tour" 
           frameborder="0" 
           allowfullscreen>
           </iframe>
           <br><br>
-          <h3 class="text-xl font-semibold sm:text-2xl">One Bernam Drone Shot - Type BS2</h3>
+          <h3 class="text-xl text-center font-semibold sm:text-2xl">4 Bedroom Virtual Tour</h3>
         <iframe 
           width="1100" 
           height="600" 
           class="mx-auto" 
-          src="https://www.mymixgo.com/AUDAX/onebernam-in/typebs2" 
-          title="One Bernam" 
+          src="http://client.audax.com.sg/Gazania/D1A/" 
+          title="The Gazania Virtual Tour" 
           frameborder="0" 
           allowfullscreen>
           </iframe>
           <br><br>
-          <h3 class="text-xl font-semibold sm:text-2xl">One Bernam Drone Shot - Type BS4</h3>
+          <h3 class="text-xl text-center font-semibold sm:text-2xl">4 Bedroom Mezzanine Virtual Tour</h3>
         <iframe 
           width="1100" 
           height="600" 
           class="mx-auto" 
-          src="https://www.mymixgo.com/AUDAX/onebernam-in/typebs4" 
-          title="One Bernam" 
+          src="http://client.audax.com.sg/Gazania/D3BM/" 
+          title="The Gazania Virtual Tour" 
           frameborder="0" 
           allowfullscreen>
           </iframe>
+          <br><br>
+          <h3 class="text-xl text-center font-semibold sm:text-2xl">Penthouse Virtual Tour</h3>
+          <iframe 
+          width="1100" 
+          height="600" 
+          class="mx-auto" 
+          src="http://client.audax.com.sg/Gazania/PH7/" 
+          title="The Gazania Virtual Tour" 
+          frameborder="0" 
+          allowfullscreen>
+          </iframe>
+          <br>
           <h3 class="text-center sm:text-xl">Powered by Audax Virtuals</h3>
         <section class="py-6">
           <NuxtLink

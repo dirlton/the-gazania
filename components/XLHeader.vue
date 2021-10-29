@@ -2317,6 +2317,22 @@
                     Site Plan
                   </NuxtLink>
                 </li>
+				<li>
+                  <NuxtLink
+                    to="/360-degree-view-site-plan"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    Virtual Tour
+                  </NuxtLink>
+                </li>
                 <li>
                   <NuxtLink
                     to="/floor-plan"
@@ -2394,7 +2410,7 @@
                       hover:bg-theme-100
                     "
                   >
-                    e-Brochure
+                    E-Brochure
                   </NuxtLink>
                 </li>
                 <li>

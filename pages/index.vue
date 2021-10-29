@@ -215,7 +215,7 @@
                   >
                   will receive Best Developer Pricing and COMMISION are
                   NON-payable. Please be advise that units for sale at The Gazania
-                  Park are on first come first serve basis. Reservations of unit
+                  are on first come first serve basis. Reservations of unit
                   is only up to 2 hours and subjected to management’s
                   authorization.
                 </p>

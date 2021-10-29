@@ -98,10 +98,10 @@
                   <tbody class="bg-white divide-y divide-gray-200">
                     <tr class="hover:bg-brown-100">
                       <td class="px-6 py-4 whitespace-nowrap">1 Bedroom</td>
-                      <td class="px-6 py-4 whitespace-nowrap">91</td>
+                      <td class="px-6 py-4 whitespace-nowrap">45</td>
                       <td class="px-6 py-4 whitespace-nowrap">441 - 463</td>
-                      <td class="px-6 py-4 whitespace-nowrap">$ 739,000</td>
-                      <td class="px-6 py-4 whitespace-nowrap">$ 1,091,000</td>
+                      <td class="px-6 py-4 whitespace-nowrap">$ 999,000</td>
+                      <td class="px-6 py-4 whitespace-nowrap">$ 1,103,000</td>
                     </tr>
                     <tr class="hover:bg-brown-100">
                       <td class="px-6 py-4 whitespace-nowrap">
@@ -109,8 +109,8 @@
                       </td>
                       <td class="px-6 py-4 whitespace-nowrap">40</td>
                       <td class="px-6 py-4 whitespace-nowrap">624 - 678</td>
-                      <td class="px-6 py-4 whitespace-nowrap">$ 893,000</td>
-                      <td class="px-6 py-4 whitespace-nowrap">$ 1,058,000</td>
+                      <td class="px-6 py-4 whitespace-nowrap">$ 1,339,000</td>
+                      <td class="px-6 py-4 whitespace-nowrap">$ 1,591,000</td>
                     </tr>
                     <tr class="hover:bg-brown-100">
                       <td class="px-6 py-4 whitespace-nowrap">
@@ -118,8 +118,8 @@
                       </td>
                       <td class="px-6 py-4 whitespace-nowrap">40</td>
                       <td class="px-6 py-4 whitespace-nowrap">40</td>
-                      <td class="px-6 py-4 whitespace-nowrap">$ 1,014,000</td>
-                      <td class="px-6 py-4 whitespace-nowrap">$ 1,196,000</td>
+                      <td class="px-6 py-4 whitespace-nowrap">$ 1,505,000</td>
+                      <td class="px-6 py-4 whitespace-nowrap">$ 1,641,000</td>
                     </tr>
                     <tr class="hover:bg-brown-100">
                       <td class="px-6 py-4 whitespace-nowrap">
@@ -127,8 +127,8 @@
                       </td>
                       <td class="px-6 py-4 whitespace-nowrap">40</td>
                       <td class="px-6 py-4 whitespace-nowrap">850-915</td>
-                      <td class="px-6 py-4 whitespace-nowrap">$ 1,276,000</td>
-                      <td class="px-6 py-4 whitespace-nowrap">$ 1,540,000</td>
+                      <td class="px-6 py-4 whitespace-nowrap">$ 1,842,000</td>
+                      <td class="px-6 py-4 whitespace-nowrap">$ 2,115,000</td>
                     </tr>
                     <tr class="hover:bg-brown-100">
                       <td class="px-6 py-4 whitespace-nowrap">
@@ -136,26 +136,35 @@
                       </td>
                       <td class="px-6 py-4 whitespace-nowrap">35</td>
                       <td class="px-6 py-4 whitespace-nowrap">958 - 1,055</td>
-                      <td class="px-6 py-4 whitespace-nowrap">$ 1,165,000</td>
-                      <td class="px-6 py-4 whitespace-nowrap">$ 1,339,000</td>
+                      <td class="px-6 py-4 whitespace-nowrap">$ 2,012,000</td>
+                      <td class="px-6 py-4 whitespace-nowrap">$ 2,366,000</td>
                     </tr>
                     <tr class="hover:bg-brown-100">
                       <td class="px-6 py-4 whitespace-nowrap">
                       4 Bedroom	
                       </td>
-                      <td class="px-6 py-4 whitespace-nowrap">37</td>
+                      <td class="px-6 py-4 whitespace-nowrap">33</td>
                       <td class="px-6 py-4 whitespace-nowrap">1,216 - 1,970</td>
-                      <td class="px-6 py-4 whitespace-nowrap">$ 1,373,000</td>
-                      <td class="px-6 py-4 whitespace-nowrap">$ 1,663,000</td>
+                      <td class="px-6 py-4 whitespace-nowrap">$ 2,475,000</td>
+                      <td class="px-6 py-4 whitespace-nowrap">$ 2,800,000</td>
                     </tr>
                     <tr class="hover:bg-brown-100">
                       <td class="px-6 py-4 whitespace-nowrap">
                       4 Bedroom + Study		
                       </td>
-                      <td class="px-6 py-4 whitespace-nowrap">13</td>
+                      <td class="px-6 py-4 whitespace-nowrap">10</td>
                       <td class="px-6 py-4 whitespace-nowrap">1,292 - 1,862</td>
-                      <td class="px-6 py-4 whitespace-nowrap">$ 1,495,000</td>
-                      <td class="px-6 py-4 whitespace-nowrap">$ 1,714,000</td>
+                      <td class="px-6 py-4 whitespace-nowrap">$ 3,253,000</td>
+                      <td class="px-6 py-4 whitespace-nowrap">$ 3,545,000</td>
+                    </tr>
+                    <tr class="hover:bg-brown-100">
+                      <td class="px-6 py-4 whitespace-nowrap">
+                      Penthouse		
+                      </td>
+                      <td class="px-6 py-4 whitespace-nowrap">7</td>
+                      <td class="px-6 py-4 whitespace-nowrap">1,808 - 1,970</td>
+                      <td class="px-6 py-4 whitespace-nowrap">$ 3,510,000</td>
+                      <td class="px-6 py-4 whitespace-nowrap">$ 3,710,000</td>
                     </tr>
                   </tbody>
                 </table>

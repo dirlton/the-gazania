@@ -51,7 +51,7 @@
         </div>
         <div class="space-y-4">
           <h3 class="text-xl font-semibold sm:text-2xl text-center">
-            4 Bedroom Penthouse
+            Penthouse
           </h3>
           <BedroomImageModal :bed-room-prop="FourBedroomPenthouse" />
         </div>

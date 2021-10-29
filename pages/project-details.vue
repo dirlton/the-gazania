@@ -24,7 +24,7 @@
               </div>
               <div>
                 <label class="block text-gray-500">Site Area</label>
-                <p>146,046 sqft</p>
+                <p>Approx. 13,568.10 sqm / 146,046 sqft</p>
               </div>
               <div>
                 <label class="block text-gray-500">Solicitor</label>
@@ -59,8 +59,24 @@
                 <p>5 Storeys</p>
               </div>
               <div>
+                <label class="block text-gray-500">Bicycle Lots</label>
+                <p>64</p>
+              </div>
+              <div>
+                <label class="block text-gray-500">Motorcycle Lots</label>
+                <p>7</p>
+              </div>
+              <div>
+                <label class="block text-gray-500">No. of Lifts</label>
+                <p>2 Passenger Lifts for Each Block</p>
+              </div>
+              <div>
                 <label class="block text-gray-500">Tenure</label>
                 <p>Freehold</p>
+              </div>
+              <div>
+                <label class="block text-gray-500">Showflat Type</label>
+                <p>4 Bedroom (Type DIA)</p>
               </div>
               <div>
                 <label class="block text-gray-500">Site Use</label>
@@ -76,7 +92,7 @@
               </div>
               <div>
                 <label class="block text-gray-500">Expected Date of TOP</label>
-                <p>July 2022</p>
+                <p>31 July 2022</p>
               </div>
               <div>
                 <label class="block text-gray-500">Expected Date of Legal Completion</label>
