@@ -12,7 +12,7 @@
           width="1100" 
           height="600" 
           class="mx-auto" 
-          src="http://client.audax.com.sg/Gazania/A1/" 
+          src="https://client.audax.com.sg/Gazania/A1/" 
           title="The Gazania Virtual Tour" 
           frameborder="0" 
           allowfullscreen>
@@ -23,7 +23,7 @@
           width="1100" 
           height="600" 
           class="mx-auto" 
-          src="http://client.audax.com.sg/Gazania/B7/" 
+          src="https://client.audax.com.sg/Gazania/B7/" 
           title="The Gazania Virtual Tour" 
           frameborder="0" 
           allowfullscreen>
@@ -34,7 +34,7 @@
           width="1100" 
           height="600" 
           class="mx-auto" 
-          src="http://client.audax.com.sg/Gazania/C4A/" 
+          src="https://client.audax.com.sg/Gazania/C4A/" 
           title="The Gazania Virtual Tour" 
           frameborder="0" 
           allowfullscreen>
@@ -45,7 +45,7 @@
           width="1100" 
           height="600" 
           class="mx-auto" 
-          src="http://client.audax.com.sg/Gazania/D1A/" 
+          src="https://client.audax.com.sg/Gazania/D1A/" 
           title="The Gazania Virtual Tour" 
           frameborder="0" 
           allowfullscreen>
@@ -56,7 +56,7 @@
           width="1100" 
           height="600" 
           class="mx-auto" 
-          src="http://client.audax.com.sg/Gazania/D3BM/" 
+          src="https://client.audax.com.sg/Gazania/D3BM/" 
           title="The Gazania Virtual Tour" 
           frameborder="0" 
           allowfullscreen>
@@ -67,7 +67,7 @@
           width="1100" 
           height="600" 
           class="mx-auto" 
-          src="http://client.audax.com.sg/Gazania/PH7/" 
+          src="https://client.audax.com.sg/Gazania/PH7/" 
           title="The Gazania Virtual Tour" 
           frameborder="0" 
           allowfullscreen>

@@ -117,7 +117,7 @@
                         2 Bedroom + Study
                       </td>
                       <td class="px-6 py-4 whitespace-nowrap">40</td>
-                      <td class="px-6 py-4 whitespace-nowrap">40</td>
+                      <td class="px-6 py-4 whitespace-nowrap">667 - 700</td>
                       <td class="px-6 py-4 whitespace-nowrap">$ 1,505,000</td>
                       <td class="px-6 py-4 whitespace-nowrap">$ 1,641,000</td>
                     </tr>
@@ -126,7 +126,7 @@
                         3 Bedroom
                       </td>
                       <td class="px-6 py-4 whitespace-nowrap">40</td>
-                      <td class="px-6 py-4 whitespace-nowrap">850-915</td>
+                      <td class="px-6 py-4 whitespace-nowrap">850 - 915</td>
                       <td class="px-6 py-4 whitespace-nowrap">$ 1,842,000</td>
                       <td class="px-6 py-4 whitespace-nowrap">$ 2,115,000</td>
                     </tr>
