@@ -118,8 +118,8 @@
                     stroke-linejoin="round"
                   ></path>
                 </svg>
-                <a href="mailto:sales@normantonparkcondos.com.sg"
-                  >sales@thegazania.com.sg</a
+                <a href="mailto:sales@thegazaniaofficial.com.sg"
+                  >sales@thegazaniaofficial.com.sg</a
                 >
               </li>
             </ul>
